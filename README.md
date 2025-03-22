@@ -1,6 +1,6 @@
 # WordEcho
 
-Application to read in your target language, save unfamiliar words, and review them later with a spaced repetition system. Build your vocabulary naturally while enjoying immersive reading.
+Read in your target language and build your vocabulary with a spaced repetition system for word recall similar to [Anki](https://apps.ankiweb.net/). A free, open-source alternative to [LingQ](https://www.lingq.com), designed to help you save new words while reading and review them efficiently.
 
 
 ---
@@ -21,7 +21,7 @@ This page allows you to add new texts in your target language.
 
 ![alt text](image-4.png)
 
-Simply enter a title and the page content. You can find the text used here: [https://lingua.com/german/reading/freizeitgestaltung/](https://lingua.com/german/reading/freizeitgestaltung/).  
+Simply enter a title and the page content. You can find the text used here: [lingua.com](https://lingua.com/german/reading/freizeitgestaltung/).  
 After pasting the text, press **SAVE** and then **EXIT** to return to the starting page.
 
 ![alt text](image-5.png)
