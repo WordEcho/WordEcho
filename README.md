@@ -1,6 +1,6 @@
 # WordEcho
 
-Application to read in your target language, instantly save unfamiliar words, and review them later with a spaced repetition system. Build your vocabulary naturally while enjoying immersive reading.
+Application to read in your target language, save unfamiliar words, and review them later with a spaced repetition system. Build your vocabulary naturally while enjoying immersive reading.
 
 
 ---
